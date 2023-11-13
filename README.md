@@ -9,7 +9,11 @@ tailwindcss / y
 src directory / n
 app router / y
 import alias /n
+```
 
+# shadcn-ui init 
+
+```sh
 pnpm dlx shadcn-ui@latest init
 
 style / default
